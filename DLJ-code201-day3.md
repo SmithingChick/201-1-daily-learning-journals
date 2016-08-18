@@ -1,0 +1,5 @@
+A day that starts with me sleeping through the many alarms I set to get up in the morning is not going to go well. This is something I know from long & frustrating experience. (I typically have 4 of them. I'm an exceptionally difficult person to wake up in the morning).
+
+Today was not a good day. Actually, I left class today thinking that I should maybe just chuck everything & become a hobo. I am not used to feeling like I'm a complete blithering idiot. Honestly, it doesn't happen very often. Or at all, as a rule. I felt like I'd been dropped into a Chinese language class & was having to conjugate verbs while only having a roughly 1st grade level vocabulary. 
+
+I want to stress that this isn't Aaron or anyone else's fault. Rita helped me out yesterday, Aaron made a point to check on me today & the new guy really helped me figure out what I was doing wrong with Question 6. I was having a "bad brain" day. I'm going to re-read the last few chapters in the Duckett JavaScript book & hopefully get this stuff more firmly embedded into my brain. I know I can get it- I just need a better handle on the vocabulary before I can really get the grammar. 
