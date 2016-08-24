@@ -1,0 +1,5 @@
+I think I might need  JavaScript tutor. Or I need to actually do the Treehouse JS videos that I keep saying I'm going to do. Or I need to to do a better job looking up posible solutions on places like StackOverflow & the MDN. I'm too used to being able to look things up in books. That's a bit too limiting when it comes to coding. (Silly academic!)
+
+When the code got to frustrating, I opted to start working on the style guide & such for the front-end of the site. It's not all together on the site itself yet, but I've got some swatches, general color scheme, & typefaces picked out. Choosing typefaces is probably the longest "research" I do when designing anything. I'm something of a font fiend & had a fantastic typography prof in my Graphic Design program so I <em>really</em> like playing with type.
+
+So, I don't feel like I'm really at the point a should be with the project yet. What I may need to do is just let myself do the design work that I want to do so it's not distracting me from the scripting I need to be doing.
