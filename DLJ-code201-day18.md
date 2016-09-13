@@ -1,0 +1,3 @@
+The problem with doing these things a few days later is that I have to remember which day this was. I think it was Wednesday.
+
+Wednesday was a challenge. I got sick on Tuesday night so I opted to work remotely on Wednesday as I was still pretty wiped out. I kept in contact with my group partners via Slack. It was an interesting experience. Mostly I learned that I'd really rather work with people face-to-face. I definitely would rather work with this group face-to-face. They weren't inclined to listen to me when I was sitting in the same room as them, they were even less likely when I was just on their computer screens. :-\
